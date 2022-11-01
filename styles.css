@@ -1,8 +1,19 @@
 body{
+    margin: 0;
+    padding: 0;;
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
 }
 img{
     align-items: center;
     width: fit-content;
+}
+.lists{
+    display: flex;
+    justify-content: space-evenly;
+}
+.h1{
+    display: block;
+    margin: 150px auto 50px;
 }
